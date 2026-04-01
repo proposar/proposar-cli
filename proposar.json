@@ -1,9 +1,9 @@
 {
   "name": "proposar-cli",
   "version": "1.0.0",
-  "description": "Standardized AI proposal templates and CLI blueprints for the Proposar ecosystem.",
+  "description": "Proposar is a Heuristic Sales Agent for freelancers and agencies, utilizing AI-driven strategic narratives and anti-ghosting intelligence to maximize conversion.",
   "author": "Proposar.com",
-  "keywords": ["ai", "proposal", "freelance", "automation", "cli"],
+  "keywords": ["ai", "proposal", "freelance", "automation", "cli", "sales-intelligence"],
   "homepage": "https://proposar.com",
   "license": "MIT",
   "repository": {
