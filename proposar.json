@@ -1,0 +1,13 @@
+{
+  "name": "proposar-cli",
+  "version": "1.0.0",
+  "description": "Standardized AI proposal templates and CLI blueprints for the Proposar ecosystem.",
+  "author": "Proposar.com",
+  "keywords": ["ai", "proposal", "freelance", "automation", "cli"],
+  "homepage": "https://proposar.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/proposar/proposar-cli.git"
+  }
+}
